@@ -104,11 +104,11 @@ test1:
 
 点击提交, 然后把最下面的 `应用的 UCenter 配置信息`全部复制到tpuc的Ucenter模块 > Conf文件夹 > config.php, 覆盖对应的配置文件
 
- ![20160927180730](pic\20160927180730.jpg)
+ ![20160927180730](https://raw.githubusercontent.com/xsu1991/ucenter_thinkphp3.2.3/master/pic/20160927180730.jpg)
 
 覆盖这里的
 
- ![20160927180932](pic\20160927180932.jpg)
+ ![20160927180932](https://raw.githubusercontent.com/xsu1991/ucenter_thinkphp3.2.3/master/pic/20160927180932.jpg)
 
 test2: 
 
@@ -127,14 +127,14 @@ test2:
 
 保存之后,  返回到应用管理, 确保都通信成功
 
- ![20160927172619](pic\20160927172619.jpg)
+ ![20160927172619](https://raw.githubusercontent.com/xsu1991/ucenter_thinkphp3.2.3/master/pic/20160927172619.jpg)
 
 
 # 修改
 
 如果你需要修改来自己使用, 其实只需要修改下面框住的3个文件就可以了, 其他的文件都可以不动
 
- ![sp161024_145018](pic\sp161024_145018.jpg)
+ ![sp161024_145018](https://raw.githubusercontent.com/xsu1991/ucenter_thinkphp3.2.3/master/pic/sp161024_145018.jpg)
 
 ## config.php 
 
@@ -183,12 +183,12 @@ class ApiService{
 在浏览器的地址栏输入, 把xxx补充为刚才新添加的用户的username和password
 
 http://tpuc.la/index.php?m=Admin&c=Index&a=syslogin&username=xxx&password=xxx
- ![sp161024_150420](pic\sp161024_150420.jpg)
+ ![sp161024_150420](https://raw.githubusercontent.com/xsu1991/ucenter_thinkphp3.2.3/master/pic/sp161024_150420.jpg)
  会有`登录成功`的显示
 
- ![sp161024_150532](pic\sp161024_150532.jpg)
+ ![sp161024_150532](https://raw.githubusercontent.com/xsu1991/ucenter_thinkphp3.2.3/master/pic/sp161024_150532.jpg)
 
- ![sp161024_150551](pic\sp161024_150551.jpg)
+ ![sp161024_150551](https://raw.githubusercontent.com/xsu1991/ucenter_thinkphp3.2.3/master/pic/sp161024_150551.jpg)
 
 
 # 案例
